@@ -16,7 +16,7 @@ setup(name='fact_checking',
       install_requires=[
           'numpy==1.19.1',
           'transformers==4.9.2',
-          'torch==1.9.0',
+          'torch==2.0.0',
           'jupyterlab==2.2.9',
       ],
       classifiers=[
